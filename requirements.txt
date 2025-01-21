@@ -7,5 +7,3 @@ requests
 openpyxl
 xlsxwriter
 Pillow
-Image
-ImageDraw
