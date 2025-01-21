@@ -6,6 +6,6 @@ plotly
 requests
 openpyxl
 xlsxwriter
-PIL
+Pillow
 Image
 ImageDraw
